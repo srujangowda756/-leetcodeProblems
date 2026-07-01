@@ -7,4 +7,3 @@ class Solution:
                 return [d[first],i]      
             d[nums[i]]=i
 
-
