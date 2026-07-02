@@ -7,13 +7,15 @@ class Solution:
     def swapPairs(self, head: Optional[ListNode]) -> Optional[ListNode]:
         if not head or not head.next:
             return head
-        cur=head
-        while cur and cur.next:
-            a=cur.val
-            b=cur.next.val
-            cur.val=b
-            cur.next.val=a
-            cur=cur.next.next
-        return head
+        dummy=ListNode(0,head)
+        prev=dummy
+        while prev.next and prev.next.next:
+            first=prev.next
+            second=prev.next.next
+            prev.next=second
+            first.next=second.next
+            second.next=first
+            prev=prev.next.next
+        return dummy.next
 
         
