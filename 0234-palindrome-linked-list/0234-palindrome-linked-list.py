@@ -17,12 +17,12 @@ class Solution:
         while fast and fast.next:
             slow=slow.next
             fast=fast.next.next
-        rev=self.reverseLL(slow)
+        slow=self.reverseLL(slow)
         cur=head
-        while rev:
-            if cur.val!=rev.val:
+        while slow:
+            if cur.val!=slow.val:
                 return False
             cur=cur.next
-            rev=rev.next
+            slow=slow.next
         return True
         
