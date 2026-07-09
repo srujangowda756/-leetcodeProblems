@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0287-find-the-duplicate-number) |
 | [0643-maximum-average-subarray-i](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0643-maximum-average-subarray-i) |
 ## Sliding Window
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0074-search-a-2d-matrix) |
 | [0098-validate-binary-search-tree](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0098-validate-binary-search-tree) |
 | [0287-find-the-duplicate-number](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0287-find-the-duplicate-number) |
 ## Binary Tree
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0074-search-a-2d-matrix) |
 ## Bit Manipulation
 |  |
 | ------- |
