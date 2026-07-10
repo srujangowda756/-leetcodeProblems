@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0001-two-sum) |
+| [0048-rotate-image](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0287-find-the-duplicate-number) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0048-rotate-image) |
 | [0202-happy-number](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0202-happy-number) |
 ## Two Pointers
 |  |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0074-search-a-2d-matrix) |
 ## Bit Manipulation
