@@ -70,10 +70,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0098-validate-binary-search-tree) |
+| [0226-invert-binary-tree](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0098-validate-binary-search-tree) |
+| [0226-invert-binary-tree](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0226-invert-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0098-validate-binary-search-tree) |
+| [0226-invert-binary-tree](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0226-invert-binary-tree) |
 ## Matrix
 |  |
 | ------- |
@@ -94,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0287-find-the-duplicate-number) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
