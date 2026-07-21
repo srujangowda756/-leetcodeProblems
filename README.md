@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0643-maximum-average-subarray-i) |
 ## Hash Table
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0202-happy-number) |
+| [0424-longest-repeating-character-replacement](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0424-longest-repeating-character-replacement) |
 | [1796-second-largest-digit-in-a-string](https://github.com/srujangowda756/-leetcodeProblems/tree/master/1796-second-largest-digit-in-a-string) |
 ## Math
 |  |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0125-valid-palindrome) |
+| [0424-longest-repeating-character-replacement](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0424-longest-repeating-character-replacement) |
 | [1796-second-largest-digit-in-a-string](https://github.com/srujangowda756/-leetcodeProblems/tree/master/1796-second-largest-digit-in-a-string) |
 ## Tree
 |  |
