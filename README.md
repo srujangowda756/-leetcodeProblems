@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0001-two-sum) |
 | [0048-rotate-image](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Backtracking
 |  |
@@ -147,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0242-valid-anagram) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
