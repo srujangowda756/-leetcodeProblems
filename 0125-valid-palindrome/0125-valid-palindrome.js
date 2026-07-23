@@ -6,7 +6,7 @@ var isPalindrome = function(s) {
     let left=0
     let right=s.length-1
 
-    const isApha=c=> /[a-zA-Z0-9]/i.test(c)
+    const isApha=c=> /[a-zA-Z0-9]/.test(c)
 
     while(left<right){
         while(left<right && !isApha(s[left])){
