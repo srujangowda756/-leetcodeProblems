@@ -157,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0053-maximum-subarray) |
+## Database
+|  |
+| ------- |
+| [0197-rising-temperature](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
