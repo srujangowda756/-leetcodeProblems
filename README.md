@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0155-min-stack](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0234-palindrome-linked-list) |
 ## String
 |  |
@@ -169,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0197-rising-temperature](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0197-rising-temperature) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
