@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0287-find-the-duplicate-number) |
 | [0643-maximum-average-subarray-i](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0643-maximum-average-subarray-i) |
+| [0739-daily-temperatures](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0739-daily-temperatures) |
 ## Sliding Window
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0234-palindrome-linked-list) |
+| [0739-daily-temperatures](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0739-daily-temperatures) |
 ## String
 |  |
 | ------- |
@@ -176,4 +178,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0155-min-stack) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/srujangowda756/-leetcodeProblems/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
